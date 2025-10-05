@@ -1,5 +1,5 @@
 # Makefile
-# Edit CROSS if you use a prefixed cross-toolchain (recommended).
+# modify CROSS if you use a prefixed cross-toolchain 
 CROSS ?= i686-elf-
 AS   = $(CROSS)as
 LD   = $(CROSS)ld
