@@ -1,3 +1,4 @@
+## This is an old project (was written years ago), will maybe try to push it further
 enable i386 packages and update
 ```
 sudo dpkg --add-architecture i386
